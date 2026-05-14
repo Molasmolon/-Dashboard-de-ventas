@@ -42,4 +42,4 @@ El proyecto incluye limpieza de datos con Python y visualización en Power BI.
 - El promedio de días de despacho es de X días
 
 ## Autor
-Ramiro — Ingeniería en Desarrollo de Software
+Rafael Rodriguez — Ingeniería en Desarrollo de Software
